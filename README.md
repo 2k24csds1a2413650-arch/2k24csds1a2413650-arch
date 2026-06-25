@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Anmol Srivastava 👋
 
-<!--
-**2k24csds1a2413650-arch/2k24csds1a2413650-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Data Science Student at PSIT Kanpur (AKTU) — 3rd Year
 
-Here are some ideas to get you started:
+🌱 Currently Learning: SQL | Python | Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goal: Data Science / Data Analyst role after graduation
+
+📫 Reach me at: anmol.srivastava3326@gmail.com
+
+---
+
+### 🛠️ Skills I'm Building
+- SQL (Querying, Joins, Aggregations)
+- Python (Pandas, NumPy)
+- Data Analysis & EDA
+
+---
+
+### 📌 About Me
+- From Kanpur, India
+- Passionate about turning data into insights
+- Open to internship opportunities
